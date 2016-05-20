@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1330/trunk/sipXmediaLib/include/rtcp
+END
+BaseClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/BaseClass.h
+END
+ReceiverReport.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/ReceiverReport.h
+END
+IRTCPConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/IRTCPConnection.h
+END
+INetworkRender.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/INetworkRender.h
+END
+IGetSrcDescription.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/IGetSrcDescription.h
+END
+RTCPRender.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/RTCPRender.h
+END
+IReceiverReport.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/IReceiverReport.h
+END
+IRTCPNotify.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/IRTCPNotify.h
+END
+SenderReport.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/SenderReport.h
+END
+ISetSrcDescription.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/ISetSrcDescription.h
+END
+RTCPHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/RTCPHeader.h
+END
+TLink.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/TLink.h
+END
+IRTCPRender.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/IRTCPRender.h
+END
+INetworkSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/INetworkSource.h
+END
+RTCManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/RTCManager.h
+END
+Message.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/Message.h
+END
+IByeReport.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/IByeReport.h
+END
+ISenderReport.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/ISenderReport.h
+END
+IRTCPSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/IRTCPSession.h
+END
+IRTPHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/IRTPHeader.h
+END
+IGetReceiverStatistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/IGetReceiverStatistics.h
+END
+RTCPSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/RTCPSource.h
+END
+IRTCPHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/IRTCPHeader.h
+END
+MsgQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/MsgQueue.h
+END
+IRTPDispatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/IRTPDispatch.h
+END
+ISDESReport.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/ISDESReport.h
+END
+IGetByeInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/IGetByeInfo.h
+END
+IGetSenderStatistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/IGetSenderStatistics.h
+END
+SourceDescription.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/SourceDescription.h
+END
+ISetReceiverStatistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/ISetReceiverStatistics.h
+END
+IBaseClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/IBaseClass.h
+END
+RTCPTimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1330/trunk/sipXmediaLib/include/rtcp/RTCPTimer.h
+END
+ByeReport.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/ByeReport.h
+END
+RTCPSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/RTCPSession.h
+END
+RTPHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/RTPHeader.h
+END
+INetDispatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/INetDispatch.h
+END
+ISetSenderStatistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/ISetSenderStatistics.h
+END
+IRTCPControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/IRTCPControl.h
+END
+NetworkChannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/NetworkChannel.h
+END
+TLinkedList.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/TLinkedList.h
+END
+IRTCPRegister.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/IRTCPRegister.h
+END
+RTCPConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/RTCPConnection.h
+END
+INetworkChannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/INetworkChannel.h
+END
+IRTCPStatistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/IRTCPStatistics.h
+END
+RtcpConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/739/trunk/sipXmediaLib/include/rtcp/RtcpConfig.h
+END
