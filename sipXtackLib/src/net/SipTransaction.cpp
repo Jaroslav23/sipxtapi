@@ -651,8 +651,8 @@ void SipTransaction::prepareRequestForSend(SipMessage& request,
    // If this is an ACK for a 2xx response so we have to look it up
    // We have already figured out how to route this request.
    if(mIsDnsSrvChild &&
-      !mSendToAddress.isNull() &&
-      !ackFor2xx)
+      !mSendToAddress.isNull()/* &&
+      !ackFor2xx*/)
    {
       toAddress = mSendToAddress;
       port = mSendToPort;
